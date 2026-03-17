@@ -110,4 +110,4 @@ Give the repo a star — it helps others find it.
 ---
 
 *Built by Ofek Ben David · CS Student & AI tooling enthusiast*
-*[linkedin.com/in/your-profile](www.linkedin.com/in/ofek-ben-david)*
+*(www.linkedin.com/in/ofek-ben-david)*
